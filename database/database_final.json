@@ -1,0 +1,294 @@
+{
+  "labAccess": {
+    "123456789": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "John Doe"
+    },
+    "135792468": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Emily Wilson"
+    },
+    "153724698": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "James Martinez"
+    },
+    "197583624": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Susan Turner"
+    },
+    "239814567": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Linda Lewis"
+    },
+    "246813579": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Michael Johnson"
+    },
+    "294763518": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Joseph Baker"
+    },
+    "314725896": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Robert Brown"
+    },
+    "381746925": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Thomas King"
+    },
+    "385726914": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Karen Harris"
+    },
+    "458712369": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Charles Jackson"
+    },
+    "468297531": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Nancy Turner"
+    },
+    "479682350": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Daniel Robinson"
+    },
+    "568413927": {
+      "access": "true",
+      "affiliation": "student",
+      "name": "Kimberly Hall"
+    },
+    "572863149": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Betty"
+    },
+    "579315684": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Jennifer Lee"
+    },
+    "597138462": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Mark Hernandez"
+    },
+    "624197583": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Christopher Young"
+    },
+    "631849275": {
+      "access": "true",
+      "affiliation": "student",
+      "name": "Angela Walker"
+    },
+    "671083294": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Michelle Clark"
+    },
+    "695847302": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Lisa Anderson"
+    },
+    "716932845": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "William Thomas"
+    },
+    "726934851": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Sandra Hall"
+    },
+    "764093786": {
+      "access": "true",
+      "affiliation": "student",
+      "name": "Estrella Lopez"
+    },
+    "820467135": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Matthew White"
+    },
+    "849261735": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Paul Mitchell"
+    },
+    "864209753": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "David Davis"
+    },
+    "873426915": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Richard Nelson"
+    },
+    "926315847": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Donna Scott"
+    },
+    "932645187": {
+      "access": "false",
+      "affiliation": "student",
+      "name": "Patricia Garcia"
+    },
+    "937362513": {
+      "access": "true",
+      "affiliation": "faculty",
+      "name": "Sarah Truman"
+    },
+    "987654321": {
+      "access": "true",
+      "affiliation": "student",
+      "name": "Jane Smith"
+    }
+  },
+  "logData": {
+    "123456789": {
+      "datetime": "09/13/2023 12:10:46",
+      "name": "John Doe"
+    },
+    "135792468": {
+      "datetime": "",
+      "name": "Emily Wilson"
+    },
+    "153724698": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "James Martinez"
+    },
+    "197583624": {
+      "datetime": "",
+      "name": "Susan Turner"
+    },
+    "239814567": {
+      "datetime": "",
+      "name": "Linda Lewis"
+    },
+    "246813579": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Michael Johnson"
+    },
+    "294763518": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Joseph Baker"
+    },
+    "314725896": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Robert Brown"
+    },
+    "381746925": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Thomas King"
+    },
+    "385726914": {
+      "datetime": "",
+      "name": "Karen Harris"
+    },
+    "458712369": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Charles Jackson"
+    },
+    "468297531": {
+      "datetime": "",
+      "name": "Nancy Turner"
+    },
+    "479682350": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Daniel Robinson"
+    },
+    "568413927": {
+      "datetime": "",
+      "name": "Kimberly Hall"
+    },
+    "572863149": {
+      "datetime": "",
+      "name": "Betty"
+    },
+    "579315684": {
+      "datetime": "",
+      "name": "Jennifer Lee"
+    },
+    "597138462": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Mark Hernandez"
+    },
+    "624197583": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Christopher Young"
+    },
+    "631849275": {
+      "datetime": "",
+      "name": "Angela Walker"
+    },
+    "671083294": {
+      "datetime": "",
+      "name": "Michelle Clark"
+    },
+    "695847302": {
+      "datetime": "",
+      "name": "Lisa Anderson"
+    },
+    "716932845": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "William Thomas"
+    },
+    "726934851": {
+      "datetime": "",
+      "name": "Sandra Hall"
+    },
+    "764093786": {
+      "datetime": "",
+      "name": "Estrella Lopez"
+    },
+    "820467135": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Matthew White"
+    },
+    "849261735": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Paul Mitchell"
+    },
+    "864209753": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "David Davis"
+    },
+    "873426915": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Richard Nelson"
+    },
+    "926315847": {
+      "datetime": "",
+      "name": "Donna Scott"
+    },
+    "932645187": {
+      "datetime": "",
+      "name": "Patricia Garcia"
+    },
+    "937362513": {
+      "datetime": "09/10/2023 11:25:21",
+      "name": "Sarah Truman"
+    },
+    "987654321": {
+      "datetime": "",
+      "name": "Jane Smith"
+    }
+  }
+}
