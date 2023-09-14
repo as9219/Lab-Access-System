@@ -19,7 +19,7 @@ def pushAccessData(key, value, idnumber):
 
 def verifyAccess(idnumber):
     access_reference = db.reference("/labAccess/" + str(idnumber) + "/access").get()
-    return bool(access_reference)
+    return access_reference
 
 def facultyAccess(idnumber):
     access_reference = db.reference("/labAccess/" + str(idnumber) + "/affiliation").get()
@@ -39,13 +39,13 @@ class LoginWindow(QDialog):
         admin_radio = self.admin_radio.isChecked()
 
         if id_number.isdigit() and len(id_number) == 9:
-            if in_radio and  verifyAccess(id_number) == True:
+            if in_radio and verifyAccess(id_number) == "true":
                 self.redLabel.setText("")
                 self.greenLabel.setText("Card Accepted! Marked Entry")
                 formatted_datetime = datetime.datetime.now().strftime("%m/%d/%Y %H:%M:%S")
                 pushDateTime("datetime", str(formatted_datetime), id_number)
 
-            elif out_radio and  verifyAccess(id_number) == True:
+            elif out_radio and verifyAccess(id_number) == "true":
                 self.redLabel.setText("")
                 self.greenLabel.setText("Card Accepted! Marked Exit")
                 formatted_datetime = datetime.datetime.now().strftime("%m/%d/%Y %H:%M:%S")
