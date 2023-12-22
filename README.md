@@ -8,9 +8,11 @@ To compile this program, you will need to have Python installed and have a suita
 <br>Next, clone this repository using the following git command: <br>
   <code>git clone https://github.com/as9219/SUNLAB-Card-Access.git</code>
 
-After cloning this repository, you will need to install <code>firebase-admin</code> and <code>PyQt5</code>. Open the terminal in your IDE and type in the following commands:
+After cloning this repository, you will need to install <code>firebase-admin</code> and <code>PyQt5</code>. You can skip these steps if you already have these modules installed. Open the terminal in your IDE and type in the following commands:
 - <code> pip install firebase-admin </code>
 - <code> pip install pyqt5 </code>
 
-Your code should now be able to compile, if the program does not compile or if you have any other questions, please do not hesitate to contact me!
+
+Your code should now be able to compile. If the program does not compile or if you have any other questions, please do not hesitate to contact me!
+For more information about the program, I have made a video showcasing the functions of the program, you can check out the video in the <code>video</code> folder. <br>
 <br>Thank you for taking the time to check out my SUNLAB Card Access Program :)
