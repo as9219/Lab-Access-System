@@ -13,6 +13,6 @@ After cloning this repository, you will need to install <code>firebase-admin</co
 - <code> pip install pyqt5 </code>
 
 
-Your code should now be able to compile. If the program does not compile or if you have any other questions, please do not hesitate to contact me!
+Go into <code>main.py</code> and click the run. Your code should now be able to compile. If the program does not compile or if you have any other questions, please do not hesitate to contact me!
 For more information about the program, I have made a video showcasing the functions of the program, you can check out the video in the <code>video</code> folder. <br>
 <br>Thank you for taking the time to check out my SUNLAB Card Access Program :)
